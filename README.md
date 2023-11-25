@@ -1,4 +1,5 @@
 # LearnAndroid
+Hello.
 Học Android.
 activity_main.xml : file hiển thị layout của app .
 item.xml : file hiển thị item của mỗi sản phẩm trên lưới gridview .
